@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>Mine-Git-Java-Guvi-Packaging</artifactId>
+  <artifactId>java-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
